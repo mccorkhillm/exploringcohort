@@ -1,9 +1,3 @@
----
-
-name: "Exploring Cohort Models"
-
----
-
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
@@ -20,3 +14,16 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  
+  
+ navbar-links:
+    About: "about"
+    Resources:
+      - Contact: "contact" 
+      - Timeline: "timeline"
+    Announcements: "announcements"
+    My GitHub: "https://github.com/hsoyka"
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
