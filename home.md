@@ -34,4 +34,5 @@ infrastructures to support preservation and access.
 
 
 ## Contributors
+
 Heather Soyka, [Kent State University]:(https://www.kent.edu/iSchool/heather-soyka-phd)
