@@ -1,0 +1,19 @@
+name: "Exploring Cohort Models"
+navbar:
+  title: "Exploring Cohort Models"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "timeline"
+      href: timeline.html
+    - text: "Announcements"
+      href: announcements.html
+output:
+  html_document:
+    highlight: textmate
+    include:
+      after_body: footer.html
+css: styles.css
+
