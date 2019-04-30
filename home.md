@@ -29,10 +29,10 @@ infrastructures to support preservation and access.
 
 ## Contact
 
-- [Email]:(mailto:hsoyka@kent.edu)
-- [GitHub]:(https://github.com/hsoyka/)
+- [Email](mailto:hsoyka@kent.edu)
+- [GitHub](https://github.com/hsoyka/)
 
 
 ## Contributors
 
-Heather Soyka, [Kent State University]:(https://www.kent.edu/iSchool/heather-soyka-phd)
+Heather Soyka, [Kent State University](https://www.kent.edu/iSchool/heather-soyka-phd)
