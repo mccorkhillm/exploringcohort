@@ -1,11 +1,10 @@
-[TOC]
 # Table of Contents
 1. [About](#about)
 2. [Project Summary](#project-summary)
 3. [Contact](#contact)
 4. [Contributors](#contributors)
 
-# About
+## About
 This is the page for the Exploring Cohort Models study. On it, you will find updates about the project as well as researcher contact information.
 
 ## Project Summary
