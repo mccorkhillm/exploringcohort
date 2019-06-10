@@ -3,6 +3,7 @@
 2. [Project Summary](#project-summary)
 3. [Contact](#contact)
 4. [Contributors](#contributors)
+5. [Map](https://mccorkhillm.github.io/exploringcohort/map.html)
 
 ## About
 This is the page for the Exploring Cohort Models study. On it, you will find updates about the project as well as researcher contact information.
